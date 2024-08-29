@@ -1,4 +1,10 @@
+# Hank Jacoby's first CS193 Homework
 ## Welcome to GitHub Pages
+
+### Some of my favorite things about CS193
+- The class is taught by students
+- The class prepares me for upcoming computer science assignments
+- Class is only once a week
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
